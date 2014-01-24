@@ -1,0 +1,38 @@
+<positions>
+    <element name="Vid00000">
+        <x>0.000000000</x>
+        <y>70.000000000</y>
+        <width>1200.000000000</width>
+        <height>77.000000000</height>
+    </element>
+    <element name="Vid01">
+        <x>0.000000000</x>
+        <y>70.000000000</y>
+        <width>1200.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="Vid02">
+        <x>0.000000000</x>
+        <y>171.000000000</y>
+        <width>1200.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="Vid03">
+        <x>0.000000000</x>
+        <y>235.000000000</y>
+        <width>1200.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="Vid04">
+        <x>0.000000000</x>
+        <y>299.000000000</y>
+        <width>1200.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="Vid05">
+        <x>0.000000000</x>
+        <y>363.000000000</y>
+        <width>1200.000000000</width>
+        <height>40.000000000</height>
+    </element>
+</positions>

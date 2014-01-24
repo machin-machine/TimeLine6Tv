@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="../../../addons/ofxTimeline/src/ofxTLInOut.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="0" topLine="131" />
+	</File>
+	<File name="../../../addons/ofxTimeline/src/ofxTLPage.cpp" open="1" top="1" tabpos="6">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="../../../addons/ofxTimeline/src/ofxTimeline.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="6273" topLine="211" />
+	</File>
+	<File name="../../../addons/ofxTimeline/src/ofxTimeline.h" open="1" top="0" tabpos="5">
+		<Cursor position="19624" topLine="519" />
+	</File>
+	<File name="src/testApp.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="2012" topLine="9" />
+	</File>
+	<File name="src/testApp.h" open="1" top="0" tabpos="2">
+		<Cursor position="820" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
